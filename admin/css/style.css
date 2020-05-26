@@ -1,0 +1,11 @@
+/* style.css file */
+body {
+	background-color:  #c5c5c5;
+}
+.login-form{
+   width: 500px;	
+   margin: 250px auto;
+}
+.mrg {
+	margin: 5px;
+}
